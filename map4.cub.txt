@@ -1,0 +1,26 @@
+R       800   800
+NO        ./redbrick.xpm
+    SO ./wood.xpm
+
+
+WE ./mossy.xpm
+
+
+S ./barrel.xpm
+EA ./greystone.xpm
+
+
+
+
+F 255,0,0
+C 33,90,255
+
+
+
+
+
+1111111
+1N02001
+1000001
+1000021
+1111111

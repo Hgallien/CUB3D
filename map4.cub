@@ -1,0 +1,24 @@
+R       1920 1080 
+NO        ./texture/redbrick.xpm
+    SO ./texture/wood.xpm
+
+
+WE ./texture/mossy.xpm
+
+
+S ./texture/barrel.xpm
+EA ./texture/greystone.xpm
+
+
+
+
+F 255,0,0
+C 33,90,255
+
+
+
+
+
+11111111111111111111111111111111111
+1E022222222222222222222222222222261
+11111111111111111111111111111111111
